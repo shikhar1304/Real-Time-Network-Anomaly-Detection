@@ -1,1 +1,2 @@
 # Real-Time-Network-Anomaly-Detection
+Developed a real-time intrusion detection system using Scapy, Isolation Forest, and Python to capture, analyze, and detect anomalous network traffic. The system processes live packets, extracts flow-based features, and applies machine learning for anomaly detection. Integrated Nmap for attack simulation and optimized model performance for high accuracy in cybersecurity monitoring.
